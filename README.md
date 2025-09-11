@@ -37,10 +37,10 @@ Un tool per monitorare le proprie finanze in modo semplice e intuitivo.
 ### [🌊 Progetto Laguna](https://github.com/BacaroTech/Progetto-laguna)  
 Il Progetto Laguna nasce con l’obiettivo di valorizzare e rendere più accessibili i dati aperti messi a disposizione dal Comune di Venezia
 
-## [😋 Bacaro FoodTruck MobileApp](https://github.com/BacaroTech/BacaroFoodTruckMobileApp)
+### [😋 Bacaro FoodTruck MobileApp](https://github.com/BacaroTech/BacaroFoodTruckMobileApp)
 Mobile App for Bacarotruck
 
-## [🚧 Blueprint Bacaro Architecture](https://github.com/BacaroTech/blueprint-bacaro-architecture)
+### [🚧 Blueprint Bacaro Architecture](https://github.com/BacaroTech/blueprint-bacaro-architecture)
 La Bacaro CLI è uno strumento sviluppato in Node.js che permette di generare in modo rapido e automatizzato una struttura completa di progetto full-stack, pronta all’uso
 
 ---
