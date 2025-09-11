@@ -18,15 +18,6 @@ Abbiamo creato una mini landing page per raccogliere tutti i nostri social, svil
 ### [🗨️ Presentazioni eventi](https://github.com/BacaroTech/Presentazioni-eventi)  
 Qui troverai tutte le slide, i documenti e i materiali utilizzati durante gli eventi che organizziamo.  
 
-### [💪 Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)  
-Raccogliamo soluzioni ai problemi di **LeetCode** affrontati nelle serate di "LeetcoData", un’iniziativa di BacaroTech che mira a rendere l’**algoritmica** più accessibile a tutti.  
-
-### [☕ SerieSpringBoot](https://github.com/BacaroTech/SerieSpringBoot)
-Progetto che contiene un backend Spring Boot, dalla creazione di base fino ad implementazioni più avanzate.
-
-### [🔗 Repository utili per gli sviluppatori](https://github.com/BacaroTech/Repository-utili)  
-Abbiamo selezionato e raccolto le repository più utili trovate su GitHub, presentandole nei nostri video.  
-
 ---
 
 ## 🛠 Progetti Interni  
@@ -62,6 +53,15 @@ Abbiamo sviluppato la stessa app con **Angular, React, Vue e Svelte** per confro
 
 ### [🔐 Keycloak Workshop](https://github.com/jollymick90/keycloak-workshop)  
 Tutto ciò che serve per integrare **Keycloak** nella gestione dell’autenticazione e autorizzazione di applicazioni moderne.  
+
+### [💪 Bacaro Tech Gym](https://github.com/BacaroTech/Bacaro-tech-gym)  
+Raccogliamo soluzioni ai problemi di **LeetCode** affrontati nelle serate di "LeetcoData", un’iniziativa di BacaroTech che mira a rendere l’**algoritmica** più accessibile a tutti.  
+
+### [☕ SerieSpringBoot](https://github.com/BacaroTech/SerieSpringBoot)
+Progetto che contiene un backend Spring Boot, dalla creazione di base fino ad implementazioni più avanzate.
+
+### [🔗 Repository utili per gli sviluppatori](https://github.com/BacaroTech/Repository-utili)  
+Abbiamo selezionato e raccolto le repository più utili trovate su GitHub, presentandole nei nostri video.  
 
 ---
 
